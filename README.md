@@ -44,7 +44,7 @@ Please read the official **[User Manual](USER_MANUAL.md)** for a deep dive into 
 
 The fastest way. Download a single file and start using it immediately.
 
-1. Go to the [**Releases**](https://github.com/yourusername/paper-cli/releases) page
+1. Go to the [**v0.001 Release**](https://github.com/developer-in-world/paper-cli/releases/tag/v0.001) page
 2. Download **`paper-cli.exe`**
 3. Double-click it anywhere on your computer to launch the **Interactive Research Assistant**.
 
@@ -58,7 +58,7 @@ macOS and Linux do not support the `.exe` binary natively. Install from source u
 
 ```bash
 # Requires Python 3.8+
-git clone https://github.com/yourusername/paper-cli.git
+git clone https://github.com/developer-in-world/paper-cli.git
 cd paper-cli
 pip install .
 paper-cli --help
